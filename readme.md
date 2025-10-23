@@ -31,7 +31,7 @@ A minimalist, animated flip clock for comparing times across multiple timezones.
 
 ## Demo
 
-![Multi-Timezone Flip Clock Screenshot](screenshot-white.png.png)
+![Multi-Timezone Flip Clock Screenshot](screenshot-white.png)
 
 Inspired by 1965 Cifra 3 Synchron Flip Clock by Gino Valle (selected by Bob Greenberg)
 ![Multi-Timezone Flip Clock Screenshot](BGSelects-6.webp)
