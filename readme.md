@@ -31,7 +31,7 @@ A minimalist, animated flip clock for comparing times across multiple timezones.
 
 ## Demo
 
-![Multi-Timezone Flip Clock Screenshot](download.png)
+![Multi-Timezone Flip Clock Screenshot](https://edgarr.com/Multi-Timezone-Flip-Clock/)
 
 ## Usage
 
